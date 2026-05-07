@@ -1,4 +1,4 @@
-# A Framework of CSFs and KPIs for Effective Evacuation During Active Shooter Incidents in Educational Facilities
+# A Framework of CSFs and KPIs for Effective Evacuation During Active Shooter Incidents in Educational Facilities : Statistical Analysis of Professional Survey Responses
 
 This repository contains the supporting research materials, survey metadata, statistical analysis files, and analysis code used in the study related to evacuation performance during active shooter incidents in educational facilities.
 
