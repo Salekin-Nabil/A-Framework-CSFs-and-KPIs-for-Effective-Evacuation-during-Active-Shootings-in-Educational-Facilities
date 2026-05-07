@@ -1,6 +1,6 @@
-# A Framework of CSFs and KPIs for Effective Evacuation During Active Shooter Incidents in Educational Facilities : Statistical Analysis of Professional Survey Responses
+# A Framework of CSFs and KPIs for Effective Evacuation During Active Shootings in Educational Facilities : Statistical Analysis of Professional Survey Responses
 
-This repository contains the supporting research materials, survey metadata, statistical analysis files, and analysis code used in the study related to evacuation performance during active shooter incidents in educational facilities.
+This repository contains the supporting research materials, survey metadata, statistical analysis files, and analysis code used in the study related to evacuation performance during active shooting incidents in educational facilities.
 
 The repository is intended to improve transparency, reproducibility, and accessibility of the research process.
 
@@ -12,17 +12,17 @@ The repository is intended to improve transparency, reproducibility, and accessi
 Jupyter Notebook containing the statistical analysis workflow used in this study.  
 The notebook includes procedures related to:
 - Data preprocessing
-- Reliability analysis
 - Exploratory Factor Analysis (EFA)
 - Confirmatory Factor Analysis (CFA)
+- Cronbach's Alpha (CA)
 - Composite Reliability (CR)
 - Average Variance Extracted (AVE)
-- Supporting statistical validation steps
 
 ---
 
 ### 2. `Results of Statistical Analysis.xlsx`
 Excel file containing the processed statistical analysis outputs and summarized results generated during the study.
+Please refer to the **Block_Summary** and **Factor_Metrics** tab in the excel sheet.
 
 The file includes:
 - Reliability analysis results
@@ -38,8 +38,10 @@ Metadata and variable information related to the survey dataset used in this res
 The file includes:
 - Survey variable descriptions
 - KPI and CSF categorizations
-- Coding structure
 - Construct/group information used during analysis
+- Acquired data during the survey
+
+**The file does not include any confidential information of the respondents who participated in the survey**
 
 ---
 
@@ -49,11 +51,29 @@ This repository is provided as supplementary research material for academic revi
 
 ---
 
-## Author
+## Authors
 
-**Shirajus Salekin Nabil**  
-Ph.D. Research Assistant  
-Nieri Department of Construction and Real Estate Development  
-Clemson University
+### Shirajus Salekin Nabil
+PhD Student  
+Nieri Department of Construction, Development and Planning  
+College of Architecture, Art and Construction  
+Clemson University, Clemson, SC, USA  
+Email: snabil@clemson.edu
 
 ---
+
+### Dr. Jong Han Yoon *(Corresponding Author)*
+Assistant Professor  
+Nieri Department of Construction, Development and Planning  
+College of Architecture, Art and Construction  
+Clemson University, Clemson, SC, USA  
+Email: jongy@clemson.edu
+
+---
+
+### Istiqal Aurangzeb
+Graduate Student  
+School of Computing  
+College of Engineering, Computing, and Applied Sciences  
+Clemson University, Clemson, SC, USA  
+Email: iaurang@clemson.edu
